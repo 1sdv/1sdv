@@ -41,6 +41,6 @@
 ## Contact
 
 - GitHub: [github.com/1sdv](https://github.com/1sdv)
-- Email: [lcc112220@163.com](mailto:lcc112220@163.com)
+- Email: [chaochaoliu235@gmail.com](mailto:chaochaoliu235@gmail.com)
 
 
