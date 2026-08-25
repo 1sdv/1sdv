@@ -31,9 +31,9 @@
 | Direction | What I Care About |
 | --- | --- |
 | **LLM Agent** | Multi-Agent 协作、ReAct 等模式、Function Calling、容错恢复机制，以及以 **Loop Engineer** 智能体的持续迭代与反馈闭环。 |
-| **RAG 与知识增强** | 混合检索、重排序、多跳召回，以及构建可观测评测与管控。 |
+| **RAG知识增强** | 混合检索、重排序、多跳召回，以及构建可观测评测与管控。 |
 | **AI 应用落地** | AI Native 需求分析、智能办公、出行规划等真实业务场景中的大模型应用。 |
-| **工程效率提升** | Git 工作流、Skill 迭代、Codex / Claude Code 辅助开发，以及高效工作流的搭建。 |
+| **效率提升** | Git 工作流、Skill 迭代、Codex / Claude Code 辅助开发，以及高效工作流的搭建。 |
 
 也期待与大家围绕 **LLM 应用落地、智能体、Harness 工程、Loop 工程、AI Coding** 展开交流。
 
