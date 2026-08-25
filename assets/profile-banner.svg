@@ -33,19 +33,18 @@
 
     <g transform="translate(54 46)">
       <text x="0" y="28" fill="#0f766e" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">AI Application Engineer</text>
-      <text x="0" y="88" fill="url(#ink)" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700">LLM Agents · RAG · AI Systems</text>
+      <text x="0" y="88" fill="url(#ink)" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">LLM Agents · Harness · AI Systems</text>
       <text x="0" y="132" fill="#475569" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22">Building practical AI workflows from research prototypes to production.</text>
 
     </g>
 
-    <g transform="translate(888 48)">
-      <rect x="0" y="0" width="172" height="172" rx="24" fill="#0f172a"/>
-      <path d="M36 116C57 88 82 74 111 74C124 74 136 77 148 82" stroke="#99f6e4" stroke-width="10" stroke-linecap="round"/>
-      <path d="M34 58C57 84 80 97 103 97C122 97 137 88 149 70" stroke="#fbbf24" stroke-width="10" stroke-linecap="round"/>
-      <circle cx="62" cy="63" r="12" fill="#99f6e4"/>
-      <circle cx="118" cy="112" r="12" fill="#fbbf24"/>
-      <circle cx="139" cy="57" r="9" fill="#ffffff"/>
-      <text x="0" y="216" fill="#111827" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="700">github.com/1sdv</text>
+    <g transform="translate(930 62)">
+      <rect x="0" y="0" width="132" height="132" rx="20" fill="#0f172a"/>
+      <path d="M28 89C44 67 64 57 86 57C96 57 105 59 114 63" stroke="#99f6e4" stroke-width="8" stroke-linecap="round"/>
+      <path d="M26 45C44 65 62 75 79 75C94 75 105 68 114 54" stroke="#fbbf24" stroke-width="8" stroke-linecap="round"/>
+      <circle cx="48" cy="48" r="9" fill="#99f6e4"/>
+      <circle cx="91" cy="86" r="9" fill="#fbbf24"/>
+      <circle cx="107" cy="44" r="7" fill="#ffffff"/>
     </g>
   </g>
 </svg>
