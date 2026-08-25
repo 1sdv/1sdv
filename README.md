@@ -35,7 +35,7 @@
 | **AI 应用** | AI Native、智能办公、出行规划等真实业务场景中的大模型应用。 |
 | **效率提升** | Git 工作流、Skill 迭代、Codex / Claude Code 辅助开发，以及高效工作流的搭建。 |
 
-也期待与大家围绕 **LLM 应用落地、智能体、Harness 工程、Loop 工程、AI Coding** 展开交流。
+也期待围绕 **LLM 应用落地、智能体、Harness 工程、Loop 工程、AI Coding** 展开交流。
 
 
 ## Contact
