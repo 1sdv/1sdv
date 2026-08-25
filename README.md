@@ -5,10 +5,17 @@
 <h1 align="center">刘超超｜AI 应用工程师</h1>
 
 <p align="center">
-  <a href="https://github.com/1sdv"><img src="https://img.shields.io/badge/GitHub-1sdv-111827?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="mailto:lcc112220@163.com"><img src="https://img.shields.io/badge/Email-lcc112220%40163.com-2563eb?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Focus-LLM%20Agents%20%7C%20RAG%20%7C%20AI%20Native-0f766e?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20AI%20Engineer%20Roles-b45309?style=flat-square" alt="Open to work" />
+  <a href="https://github.com/1sdv"><strong>GitHub</strong></a>
+  ·
+  <a href="mailto:lcc112220@163.com"><strong>Email</strong></a>
+  ·
+  <strong>LLM Agents</strong>
+  ·
+  <strong>RAG</strong>
+  ·
+  <strong>AI Native</strong>
+  ·
+  <strong>Open to Work</strong>
 </p>
 
 我是一名电子信息方向硕士研究生，正在寻找 **AI 应用工程师 / LLM Agent 工程师 / AI Native 后端研发** 相关岗位。我的工作重点是把大模型能力落到真实业务系统里：从任务规划、工具调用、RAG 检索、结构化输出，到工程链路中的评测、追踪、自动化与稳定性优化。
@@ -26,7 +33,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/1sdv/TripStar">TripStar</a></h3>
-      <p><strong>多智能体协作旅行规划系统</strong> · 2.1k+ Stars</p>
+      <p><strong>多智能体协作旅行规划系统</strong></p>
+      <p><strong>Stars:</strong> 2.2k+ · <strong>Forks:</strong> 255</p>
       <p>基于 HelloAgents 架构构建 Multi-Agent 文旅规划系统，融合 LLM、多智能体 ReAct、小红书、Google / 高德地图 MCP 与知识图谱能力，自动生成包含路线、预算、预约提醒和景点简介的个性化旅行攻略。</p>
       <p>
         <code>JavaScript</code>
@@ -37,7 +45,8 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/1sdv/lunwentocode">lunwentocode</a></h3>
-      <p><strong>论文代码自动生成系统</strong> · 180+ Stars</p>
+      <p><strong>论文代码自动生成系统</strong></p>
+      <p><strong>Stars:</strong> 181 · <strong>Forks:</strong> 7</p>
       <p>将论文 Markdown 内容转化为可运行 Python 项目，使用双 LLM 驱动工作流编排，完成逻辑理解、任务拆解、代码生成、语法校验与自动修复闭环。</p>
       <p>
         <code>Python</code>
@@ -96,12 +105,12 @@
 - GPA `4.11 / 5.0`
 - 国家奖学金、省级优秀毕业生，推免至重庆大学。
 
-## GitHub Activity
+## GitHub Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1sdv&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1sdv&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
-</p>
+| Repository | Focus | Language | Stars | Forks |
+| --- | --- | --- | ---: | ---: |
+| [TripStar](https://github.com/1sdv/TripStar) | Multi-Agent travel planning, MCP, ReAct | JavaScript | 2.2k+ | 255 |
+| [lunwentocode](https://github.com/1sdv/lunwentocode) | Paper-to-code generation, AST validation, Agent workflow | Python | 181 | 7 |
 
 ## Contact
 
