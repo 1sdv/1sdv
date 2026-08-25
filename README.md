@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="./assets/project-tripstar.svg" alt="TripStar - 多智能体协作旅行规划系统" width="100%" />
+      <img src="./assets/project-tripstar1.svg" alt="TripStar - 多智能体协作旅行规划系统" width="100%" />
     </td>
     <td width="50%" valign="top" align="center">
       <img src="./assets/project-lunwentocode.svg" alt="lunwentocode - 论文代码自动生成系统" width="100%" />
