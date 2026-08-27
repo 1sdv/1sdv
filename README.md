@@ -38,6 +38,9 @@
 也期待围绕 **LLM 应用落地、智能体、Harness 工程、Loop 工程、AI Coding** 展开交流。
 
 
+欢迎学习ClaudeCode源码解析：https://1sdv.github.io/build-Claudecode
+
+
 ## Contact
 
 - GitHub: [github.com/1sdv](https://github.com/1sdv)
