@@ -25,9 +25,9 @@
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="700">
     <rect x="34" y="246" width="98" height="28" rx="14" fill="#f5eadc"/>
-    <text x="50" y="265" fill="#92400e">Stars 2.2k+</text>
+    <text x="50" y="265" fill="#92400e">Stars 2.4k+</text>
     <rect x="142" y="246" width="86" height="28" rx="14" fill="#e0f2fe"/>
-    <text x="158" y="265" fill="#075985">Forks 255</text>
+    <text x="158" y="265" fill="#075985">Forks 286</text>
   </g>
 
   <g transform="translate(398 50)">
