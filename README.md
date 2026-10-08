@@ -24,6 +24,8 @@
 
 **重庆绮算法科技有限公司 · NLP 智能体算法实习生** `2025.12 - 2026.03`
 
+**竞赛荣誉**： 作为在校生参加阿里等相关竞赛并获得国家级奖项，同时获国家奖学金。
+
 ## Focus
 
 我持续关注 AI 的发展，当前重点围绕四个方向展开：
@@ -38,9 +40,12 @@
 也期待围绕 **LLM 应用落地、智能体、Harness 工程、Loop 工程、AI Coding** 展开交流。
 
 
+欢迎学习ClaudeCode源码解析：https://1sdv.github.io/build-Claudecode
+
+
 ## Contact
 
 - GitHub: [github.com/1sdv](https://github.com/1sdv)
-- Email: [lcc112220@163.com](mailto:lcc112220@163.com)
+- Email: [chaochaoliu235@gmail.com](mailto:chaochaoliu235@gmail.com)
 
 
